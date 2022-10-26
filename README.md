@@ -2,7 +2,7 @@
 ## Hi there, I'm Basiir Zulkifle <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">--> <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>A full stack developer with passion 👨‍💻
 
 
-My name is Basiir, and I'm a full stack developer & web designer that enjoys creating things that live on the web. I'm from Malaysia, living in Johor Bahru and currently studying web development with focus in 3D Website using Three JS and React. 
+My name is Basiir, and I'm a full stack developer & web designer that enjoys creating things that live on the web. I'm from Malaysia, living in Johor Bahru and currently on web development with focus in 3D Website using Three JS and React. I also sometimes code in Python and PHP.
 - Currently working on <a href="https://github.com/lucasjolibois54/lb-fitness"><b>iSmart Support Pte Ltd</b></a> 
 
 <div>
