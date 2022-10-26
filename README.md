@@ -7,36 +7,11 @@ My name is Basiir, and I'm a full stack developer & web designer that enjoys cre
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=basiirzulkifle&label=Profile%20views&color=0e75b6&style=flat" alt="basiirzulkifle" />
-
-
-<img src="https://camo.githubusercontent.com/58303f0576559ea5bd6dad66e2a43cdab19d1902f1d4bdf693e8c0956dc1b46a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3362353939383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465" alt="Website Badge" data-canonical-src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" style="max-width:100%;">
-</a>
-
-  </div>
+</div>
 <br/>
 
 
 ## 🔧 Technologies & Tools
-<!--
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=222222&logo=Gatsby&logoColor=663399&label=)
-![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-222222?style=for-the-badge&logo=shopify&logoColor=339933)
-![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
-![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
-![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
-![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
-![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
--->
-
 
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
