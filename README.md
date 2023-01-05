@@ -22,6 +22,7 @@ My name is Basiir, and I'm a full stack developer & web designer that enjoys cre
 ![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=4FC08D&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
+![PHP](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=phpp&logoColor=blue)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=222222&logo=Laravel&logoColor=663399&label=)
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=222222&logo=CodeIgniter&logoColor=663399&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
