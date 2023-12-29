@@ -5,9 +5,6 @@
 My name is Basiir, and I'm a full stack developer & web designer that enjoys creating things that live on the web. I'm from Malaysia, living in Johor Bahru and currently on web development with focus in 3D Website using Three JS and React. I also sometimes code in Python and PHP.
 - Currently working on Sysniq Sdn Bhd, (a subsidiary of <b>iSmart Support Pte Ltd)</b>
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=basiirzulkifle&label=Profile%20views&color=0e75b6&style=flat" alt="basiirzulkifle" />
-</div>
 <br/>
 
 
